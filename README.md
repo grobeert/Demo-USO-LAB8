@@ -1,3 +1,1 @@
-Salut asta e primul meu README.
-
-Sper sa citit cu placere :)
+Hello, this is my first README
